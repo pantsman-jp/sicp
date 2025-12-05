@@ -8,16 +8,11 @@ git clone https://github.com/pantsman-jp/SICP
 ```
 
 ## Usage
-I'm using `Gauche` interpreter.
+Require `Gauche`.
 
 To run a file,
 ```
 gosh filename.scm
-```
-
-Or, to start the REPL,
-```
-gosh
 ```
 
 ---
