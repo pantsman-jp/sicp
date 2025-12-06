@@ -21,3 +21,8 @@
 ; ここで引数 a の部分に注目してみれば
 ; (bp+aq)q+(bq+aq+ap)q+(bq+aq+ap)p = b(q^2+2pq)+a(q^2+2pq)+a(p^2+q^2)
 ; bq'+aq'+ap' と比較すれば p', q' を求められた。
+
+; (print (fib 1))
+; (print (fib 3))
+; (print (fib 10))
+; (print (fib 50))
